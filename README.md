@@ -132,5 +132,5 @@ During my tenure as a Software Engineer - I at ISSM.AI, I undertook a multifacet
 
 In my capacity as a Machine Learning Engineer, I received an adequate skills in deploying chatbots powered by Python, Rasa, FastAPI, and SQL. These chatbots were seamlessly integrated into AWS services such as EC2, S3, IAM, and Amazon Sagemaker. Furthermore, my prowess in data engineering manifested in the development of end-to-end data pipelines, supported by adept visualization techniques to extract meaningful insights and discern patterns.
 
-####Skills:
+###Skills:
 Proficient in Python, FastAPI, Flask, Docker, AWS, Scikit-Learn, TensorFlow, NLP, SQL, CI/CD, and Machine Learning, I am equipped to tackle complex challenges in the realm of data science and AI.
